@@ -1,0 +1,9 @@
+# Datos locales: incluye .env, auditorías, claves privadas, QR, perfiles y backups.
+/env/
+# Archivos temporales
+*.swp
+*.swo
+*~
+__pycache__/
+*.pyc
+.DS_Store
